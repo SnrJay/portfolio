@@ -6,6 +6,7 @@ body {
 main {
     background: grey;
     font-size: 16px;
+    font-family: 'Cairo', sans-serif;
 }
 
 .personal {
