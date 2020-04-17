@@ -106,3 +106,19 @@ ul {
 .contact > h1 {
     font-size: 2.6em;
 }
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1f1f1f;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: rgb(59, 59, 59);
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(117, 117, 117);
+}
